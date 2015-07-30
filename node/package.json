@@ -1,0 +1,14 @@
+{
+  "name": "skytestapp",
+  "version": "1.0.0",
+  "description": "Sample dockerized nodejs app",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Edwin Perez",
+  "dependencies": {
+    "express": "^4.13.1",
+    "mongodb": "^2.0.39"
+  }
+}
